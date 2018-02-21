@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE Flowers>
+<Flowers>
+	<Flower>
+		<name>tulip</name>
+		<color>yellow</color>
+		<price>23.0</price>
+	</Flower>
+	<Flower>
+		<name>pink</name>
+		<color>purple</color>
+		<price>18.0</price>
+	</Flower>
+	<Flower>
+		<name>rose</name>
+		<color>red</color>
+		<price>40.0</price>
+	</Flower>
+	<Flower>
+		<name>rose</name>
+		<color>blue</color>
+		<price>100.0</price>
+	</Flower>
+</Flowers>
